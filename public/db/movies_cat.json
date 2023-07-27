@@ -1,0 +1,205 @@
+[
+  {
+    "id": "376",
+    "category_name": " Netflix Movie 2022",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/Netflix Movie.png",
+    "cat_order": "15",
+    "parent_id": "0"
+  },
+  {
+    "id": "414",
+    "category_name": " Netflix Movie 2023",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/Netflix Movie.png",
+    "cat_order": "14",
+    "parent_id": "0"
+  },
+  {
+    "id": "280",
+    "category_name": "Action Movies 2020",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ACTIONMOVIES2020.png",
+    "cat_order": "9",
+    "parent_id": "0"
+  },
+  {
+    "id": "343",
+    "category_name": "Action Movies 2021",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ACTIONMOVIES2020.png",
+    "cat_order": "8",
+    "parent_id": "0"
+  },
+  {
+    "id": "375",
+    "category_name": "Action Movies 2022",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ACTION  MOVIES.png",
+    "cat_order": "7",
+    "parent_id": "0"
+  },
+  {
+    "id": "411",
+    "category_name": "Action Movies 2023",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ACTION  MOVIES.png",
+    "cat_order": "6",
+    "parent_id": "0"
+  },
+  {
+    "id": "305",
+    "category_name": "Action-HEVC 265",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/EN%20%20hevc.png",
+    "cat_order": "10",
+    "parent_id": "0"
+  },
+  {
+    "id": "306",
+    "category_name": "Aflam Zaman",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ZAMAN%20MOVIES.png",
+    "cat_order": "5",
+    "parent_id": "0"
+  },
+  {
+    "id": "319",
+    "category_name": "Arabic - HEVC H265",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/arabic%20hevc.png",
+    "cat_order": "4",
+    "parent_id": "0"
+  },
+  {
+    "id": "24",
+    "category_name": "Arabic Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ARBIC%20MOVIES.png",
+    "cat_order": "3",
+    "parent_id": "0"
+  },
+  {
+    "id": "288",
+    "category_name": "BluRay Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/bluray%20MOVIES.png",
+    "cat_order": "28",
+    "parent_id": "0"
+  },
+  {
+    "id": "339",
+    "category_name": "Christian movies",
+    "category_icon": "http://img-hahaiptv.net/logo10/channel/NEW%20ICONE/ICONS/CHRISTAIN%20MOVIES.png",
+    "cat_order": "25",
+    "parent_id": "0"
+  },
+  {
+    "id": "29",
+    "category_name": "Comedy Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/comedy%20MOVIES.png",
+    "cat_order": "21",
+    "parent_id": "0"
+  },
+  {
+    "id": "33",
+    "category_name": "Documentary",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/DOCUMENT%20MOVIES.png",
+    "cat_order": "27",
+    "parent_id": "0"
+  },
+  {
+    "id": "28",
+    "category_name": "Drama / Romance",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ROMANCE&DRANMA%20.MOVIES.png",
+    "cat_order": "17",
+    "parent_id": "0"
+  },
+  {
+    "id": "336",
+    "category_name": "Dubbed movies",
+    "category_icon": "http://img-hahaiptv.net/logo10/channel/NEW%20ICONE/ICONS/FILM%20MEDBLGE.png",
+    "cat_order": "23",
+    "parent_id": "0"
+  },
+  {
+    "id": "329",
+    "category_name": "German Movies",
+    "category_icon": "http://img-hahaiptv.net/BBBB/gr/German%20movies.png",
+    "cat_order": "26",
+    "parent_id": "0"
+  },
+  {
+    "id": "30",
+    "category_name": "Horror Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/HORROR%20MOVIES.png",
+    "cat_order": "22",
+    "parent_id": "0"
+  },
+  {
+    "id": "31",
+    "category_name": "Indian Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/INDIAN%20MOVIES.png",
+    "cat_order": "20",
+    "parent_id": "0"
+  },
+  {
+    "id": "27",
+    "category_name": "KIDS Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/KIDS%20MOVIES.png",
+    "cat_order": "18",
+    "parent_id": "0"
+  },
+  {
+    "id": "340",
+    "category_name": "KIDS Movies EN",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/KIDS%20MOVIES.png",
+    "cat_order": "19",
+    "parent_id": "0"
+  },
+  {
+    "id": "410",
+    "category_name": "Marvel Studios",
+    "category_icon": "/picons/Marvel.jpg",
+    "cat_order": "2",
+    "parent_id": "0"
+  },
+  {
+    "id": "344",
+    "category_name": "Netflix Movie 2020-2021",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/Netflixm.png",
+    "cat_order": "16",
+    "parent_id": "0"
+  },
+  {
+    "id": "25",
+    "category_name": "Thriller Movies 2021",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/ACTION THRILR MOVIES.2020.png",
+    "cat_order": "13",
+    "parent_id": "0"
+  },
+  {
+    "id": "381",
+    "category_name": "Thriller Movies 2022",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/Thriller Movies2022.png",
+    "cat_order": "12",
+    "parent_id": "0"
+  },
+  {
+    "id": "412",
+    "category_name": "Thriller Movies 2023",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/Thriller Movies2022.png",
+    "cat_order": "11",
+    "parent_id": "0"
+  },
+  {
+    "id": "209",
+    "category_name": "Turkish Movies",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/TURKISH%20MOVIES.png",
+    "cat_order": "24",
+    "parent_id": "0"
+  },
+  {
+    "id": "32",
+    "category_name": "WWE NETWORK",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/WWE.png",
+    "cat_order": "29",
+    "parent_id": "0"
+  },
+  {
+    "id": "377",
+    "category_name": "طلبات العملاء",
+    "category_icon": "http://img-hahaiptv.net/mlooogo/customer requests.png",
+    "cat_order": "1",
+    "parent_id": "0"
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "366",
+    "category_name": "Bein Sports LOW",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/BEIN.png",
+    "view_order": "1",
+    "parent": 0
+  },
+  {
+    "id": "59",
+    "category_name": "Bein Sports FULL SD",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/BEIN.png",
+    "view_order": "2",
+    "parent": 0
+  },
+  {
+    "id": "263",
+    "category_name": "Bein Sports FULL 4K",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/BEIN.png",
+    "view_order": "4",
+    "parent": 0
+  },
+  {
+    "id": "79",
+    "category_name": "Sport Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/sport.png",
+    "view_order": "5",
+    "parent": 0
+  },
+  {
+    "id": "61",
+    "category_name": "Shahid-Netflix-SHOOF",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/special.png",
+    "view_order": "6",
+    "parent": 0
+  },
+  {
+    "id": "60",
+    "category_name": "OSN Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/osnosn.png",
+    "view_order": "7",
+    "parent": 0
+  },
+  {
+    "id": "63",
+    "category_name": "MBC Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/MBC.png",
+    "view_order": "8",
+    "parent": 0
+  },
+  {
+    "id": "64",
+    "category_name": "Syria's Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/SYRIA.png",
+    "view_order": "9",
+    "parent": 0
+  },
+  {
+    "id": "65",
+    "category_name": "Lebanese Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/LEBANON.png",
+    "view_order": "10",
+    "parent": 0
+  },
+  {
+    "id": "66",
+    "category_name": "ART & ROTANA Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/AARRTT.png",
+    "view_order": "11",
+    "parent": 0
+  },
+  {
+    "id": "67",
+    "category_name": "Egyptian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/egypt.png",
+    "view_order": "12",
+    "parent": 0
+  },
+  {
+    "id": "68",
+    "category_name": "Kids Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/ANIMATION.png",
+    "view_order": "13",
+    "parent": 0
+  },
+  {
+    "id": "69",
+    "category_name": "Iraqi Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/iraq.png",
+    "view_order": "14",
+    "parent": 0
+  },
+  {
+    "id": "70",
+    "category_name": "Jordanian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/jordan.png",
+    "view_order": "15",
+    "parent": 0
+  },
+  {
+    "id": "71",
+    "category_name": "Palestinian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/phalastin.png",
+    "view_order": "16",
+    "parent": 0
+  },
+  {
+    "id": "72",
+    "category_name": "News Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/news2.png",
+    "view_order": "17",
+    "parent": 0
+  },
+  {
+    "id": "75",
+    "category_name": "Saudi Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/saudi.png",
+    "view_order": "18",
+    "parent": 0
+  },
+  {
+    "id": "73",
+    "category_name": "Gulf Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/gulf.png",
+    "view_order": "19",
+    "parent": 0
+  },
+  {
+    "id": "77",
+    "category_name": "Tunisia Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/Tunisia.png",
+    "view_order": "20",
+    "parent": 0
+  },
+  {
+    "id": "78",
+    "category_name": "Algerian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/ALGERIA.png",
+    "view_order": "21",
+    "parent": 0
+  },
+  {
+    "id": "103",
+    "category_name": "Morocco Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/MOROCO.png",
+    "view_order": "22",
+    "parent": 0
+  },
+  {
+    "id": "76",
+    "category_name": "Music Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/music.png",
+    "view_order": "23",
+    "parent": 0
+  },
+  {
+    "id": "104",
+    "category_name": "Sudan Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/SUDAN.png",
+    "view_order": "25",
+    "parent": 0
+  },
+  {
+    "id": "80",
+    "category_name": "Islamic Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/ISLAMIC.png",
+    "view_order": "26",
+    "parent": 0
+  },
+  {
+    "id": "82",
+    "category_name": "Christian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/CHRISTIAN.png",
+    "view_order": "27",
+    "parent": 0
+  },
+  {
+    "id": "81",
+    "category_name": "Indian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/INDIA.png",
+    "view_order": "28",
+    "parent": 0
+  },
+  {
+    "id": "86",
+    "category_name": "YES Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/yes.png",
+    "view_order": "29",
+    "parent": 0
+  },
+  {
+    "id": "83",
+    "category_name": "Kurdish Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/KURDISTAN.png",
+    "view_order": "30",
+    "parent": 0
+  },
+  {
+    "id": "84",
+    "category_name": "Turkish Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/TURKEY.png",
+    "view_order": "31",
+    "parent": 0
+  },
+  {
+    "id": "85",
+    "category_name": "German Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/GERMANY.png",
+    "view_order": "32",
+    "parent": 0
+  },
+  {
+    "id": "87",
+    "category_name": "British Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/BRITISH.png",
+    "view_order": "33",
+    "parent": 0
+  },
+  {
+    "id": "88",
+    "category_name": "French Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/france.png",
+    "view_order": "34",
+    "parent": 0
+  },
+  {
+    "id": "90",
+    "category_name": "Italian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/italy.png",
+    "view_order": "35",
+    "parent": 0
+  },
+  {
+    "id": "91",
+    "category_name": "Czech Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/czech.png",
+    "view_order": "36",
+    "parent": 0
+  },
+  {
+    "id": "92",
+    "category_name": "Sweden Channles",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/sweden.png",
+    "view_order": "37",
+    "parent": 0
+  },
+  {
+    "id": "93",
+    "category_name": "Netherland Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/netherlands.png",
+    "view_order": "38",
+    "parent": 0
+  },
+  {
+    "id": "94",
+    "category_name": "Swiss Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/swizerland.png",
+    "view_order": "39",
+    "parent": 0
+  },
+  {
+    "id": "95",
+    "category_name": "USA Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/usa.png",
+    "view_order": "40",
+    "parent": 0
+  },
+  {
+    "id": "269",
+    "category_name": "Canada Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/WhatsApp%20Image%202020-05-11%20at%2020.31.02.jpeg",
+    "view_order": "41",
+    "parent": 0
+  },
+  {
+    "id": "96",
+    "category_name": "Russian Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/russia.png",
+    "view_order": "42",
+    "parent": 0
+  },
+  {
+    "id": "97",
+    "category_name": "Spanish Channels",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/spain.png",
+    "view_order": "43",
+    "parent": 0
+  },
+  {
+    "id": "335",
+    "category_name": "HaHa H.265 CHANNEL",
+    "category_type": 0,
+    "category_icon": "http://img-hahaiptv.net/newlogo/hevec.png",
+    "view_order": "154",
+    "parent": 0
+  }
+]
